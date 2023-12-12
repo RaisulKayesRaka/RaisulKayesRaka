@@ -9,16 +9,14 @@ Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/2e9097df-d9a6-4ef6-a864-9391fb7f5f77" alt="adobe-photoshop-logo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/7a337012-84ab-4158-96ba-e93e3806943a" alt="c" width="40px" height="40px">
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/3961b75e-d510-408e-b3d5-5b3cdbc2caf3" alt="cpp" width="40px" height="40px">
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/de43657c-652c-4773-b22a-b2202e47722b" alt="java" width="40px" height="40px">
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/817f60f7-f672-4d9d-af8e-601e4c4ecc5c" alt="python" width="40px" height="40px">
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/90f4f866-ae8c-461a-b6bb-1b6f7e8cdea5" alt="git" width="40px" height="40px">
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/2f703b5a-8fe8-496d-8770-bd25a21f13c5" alt="html" width="40px" height="40px">
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/348e706a-7e77-4aec-8f6a-c33b1d532a86" alt="css" width="40px" height="40px">
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/28cad4be-e575-43de-ab3d-bbc464deda36" alt="figma" width="40px" height="40px">
 </p>
 
 ## 📊 Stats
@@ -31,3 +29,10 @@ Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer
   <img src="https://github-readme-stats.vercel.app/api?username=RaisulKayesRaka&show_icons=true&locale=en&text_bold=false&rank_icon=github&ring_color=434d58&title_color=434d58&icon_color=434d58&card_width=495px&number_format=short" alt="RaisulKayesRaka" />
 </p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisulKayesRaka" alt="RaisulKayesRaka" /></p>
+
+
+
+
+
+
+
