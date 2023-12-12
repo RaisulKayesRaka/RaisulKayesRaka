@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/2e9097df-d9a6-4ef6-a864-9391fb7f5f77" alt="adobe-photoshop-logo" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 </p>
 
@@ -31,3 +31,5 @@ Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer
   <img src="https://github-readme-stats.vercel.app/api?username=RaisulKayesRaka&show_icons=true&locale=en&text_bold=false&rank_icon=github&ring_color=434d58&title_color=434d58&icon_color=434d58&card_width=495px&number_format=short" alt="RaisulKayesRaka" />
 </p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisulKayesRaka" alt="RaisulKayesRaka" /></p>
+
+![adobe-photoshop-logo-4](https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/2e9097df-d9a6-4ef6-a864-9391fb7f5f77)
