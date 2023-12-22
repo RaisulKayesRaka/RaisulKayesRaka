@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer
 
 ## 📊 Stats
 
-<p><img src="https://komarev.com/ghpvc/?username=RaisulKayesRaka&label=Profile%20views&color=0e75b6&style=flat" alt="raisulkayesraka"/></p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raisulkayesraka&show_icons=true&locale=en&layout=compact&card_width=495&title_color=434d58" alt="raisulkayesraka" />
 </p>
