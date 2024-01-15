@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/817f60f7-f672-4d9d-af8e-601e4c4ecc5c" alt="python" width="40px" height="40px">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/2f703b5a-8fe8-496d-8770-bd25a21f13c5" alt="html" width="40px" height="40px">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/348e706a-7e77-4aec-8f6a-c33b1d532a86" alt="css" width="40px" height="40px">
+  <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/ef82d3b3-b3ad-49d8-ab9e-1519d338b6db" alt="javascript" width="40px" height="40px">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/90f4f866-ae8c-461a-b6bb-1b6f7e8cdea5" alt="git" width="40px" height="40px">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/28cad4be-e575-43de-ab3d-bbc464deda36" alt="figma" width="40px" height="40px">
 </p>
