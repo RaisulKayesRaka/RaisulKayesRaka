@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer based in Bangladesh. Here, you'll find a variety of projects and contributions that reflect my interests and skills. Feel free to explore, fork, and contribute to any of the projects.
 
 - 🎓 My field of study is **Computer Science and Engineering**
-- 🌱 I’m currently learning **Data Structure and Algorithm**
 - 📫 For contact, you can reach me at **raisulkayesofficial@gmail.com**. I'm always open to interesting collaborations and discussions. Don't hesitate to reach out!
 
 ## 🛠️ Technologies & Tools
