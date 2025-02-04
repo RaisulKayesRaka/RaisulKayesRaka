@@ -1,15 +1,18 @@
 ![My LinkedIn Cover](https://github.com/user-attachments/assets/65cb0498-7e6e-419d-b9ca-c6b192807b0b)
 
-# Hello, World! 👋
+<h1 align="center"> Hello, World! 👋</h1>
 
-Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer based in Bangladesh. Here, you'll find a variety of projects and contributions that reflect my interests and skills. Feel free to explore, fork, and contribute to any of the projects.
+Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate **web developer** based in Bangladesh. My field of study is **Computer Science and Engineering**. I love building scalable web applications, solving challenging problems, and continuously exploring new technologies. Here, you'll find a variety of projects and contributions that reflect my interests and skills. Feel free to explore, fork, and contribute to any of the projects.
 
-- 🎓 My field of study is **Computer Science and Engineering**
-- 📫 For contact, you can reach me at **raisulkayesofficial@gmail.com**. I'm always open to interesting collaborations and discussions. Don't hesitate to reach out!
+For contact, you can reach me at **raisulkayesofficial@gmail.com** or call me at **01949509654**. I'm always open to interesting collaborations and discussions. Don't hesitate to reach out!
 
-## 🛠️ Technologies & Tools
+- 🌱 Currently I’m exploring **Next.js**
+- 💬 Ask me about **MERN Stack**
 
-<p align="left">
+<br>
+<div>
+<h2 align="center">🛠️ Technologies & Tools</h2>
+<p align="center">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/2f703b5a-8fe8-496d-8770-bd25a21f13c5" alt="html" width="40px" height="40px">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/348e706a-7e77-4aec-8f6a-c33b1d532a86" alt="css" width="40px" height="40px">
   <img src="https://github.com/user-attachments/assets/9ea978bd-7c04-411e-8ac5-1940f850867d" alt="tailwindCSS" width="40px" height="40px">
@@ -24,16 +27,32 @@ Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate programmer
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/7a337012-84ab-4158-96ba-e93e3806943a" alt="c" width="40px" height="40px">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/3961b75e-d510-408e-b3d5-5b3cdbc2caf3" alt="cpp" width="40px" height="40px">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/de43657c-652c-4773-b22a-b2202e47722b" alt="java" width="40px" height="40px">
+  <br>
+  <br>
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/90f4f866-ae8c-461a-b6bb-1b6f7e8cdea5" alt="git" width="40px" height="40px">
   <img src="https://github.com/RaisulKayesRaka/RaisulKayesRaka/assets/119594099/28cad4be-e575-43de-ab3d-bbc464deda36" alt="figma" width="40px" height="40px">
 </p>
-
-## 📊 Stats
-
-<p align="left">
+</div>
+<br>
+<div align="center">
+<h2> 🔗 Let's Connect</h2>
+<p>
+  <a href="https://www.linkedin.com/in/raisulkayesraka/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://web.facebook.com/RaisulKayesOfficial/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</p>
+</div>
+<br>
+<div>
+<h2 align="center">📊 Stats</h2>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raisulkayesraka&show_icons=true&locale=en&layout=compact&card_width=495&title_color=434d58" alt="raisulkayesraka" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaisulKayesRaka&show_icons=true&locale=en&text_bold=false&rank_icon=github&ring_color=434d58&title_color=434d58&icon_color=434d58&card_width=495px&number_format=short" alt="RaisulKayesRaka" />
 </p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisulKayesRaka" alt="RaisulKayesRaka" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisulKayesRaka" alt="Streak Stats" /></p>
+</div>
