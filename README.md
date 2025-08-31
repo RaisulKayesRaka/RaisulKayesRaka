@@ -1,4 +1,4 @@
-![My LinkedIn Cover](https://github.com/user-attachments/assets/65cb0498-7e6e-419d-b9ca-c6b192807b0b)
+![banner](https://github.com/user-attachments/assets/e7d59336-2997-4175-9b06-61a08f4b5452)
 
 <h1 align="center"> Hello, World! 👋</h1>
 
