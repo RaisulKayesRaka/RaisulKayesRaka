@@ -2,12 +2,12 @@
 
 <h1 align="center"> Hello, World! 👋</h1>
 
-Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate **web developer** based in Bangladesh. My field of study is **Computer Science and Engineering**. I love building scalable web applications, solving challenging problems, and continuously exploring new technologies. Here, you'll find a variety of projects and contributions that reflect my interests and skills. Feel free to explore, fork, and contribute to any of the projects.
+Welcome to my GitHub profile! I'm **Raisul Kayes Raka**, a passionate **Software Engineer** based in Bangladesh. My field of study is **Computer Science and Engineering**. I love building scalable applications, solving challenging problems, and continuously exploring new technologies. Here, you'll find a variety of projects and contributions that reflect my interests and skills. Feel free to explore, fork, and contribute to any of the projects.
 
-For contact, you can reach me at **raisulkayesofficial@gmail.com** or call me at **01949509654**. I'm always open to interesting collaborations and discussions. Don't hesitate to reach out!
+For contact, you can reach me at **raisulkayesofficial@gmail.com**. I'm always open to interesting collaborations and discussions. Don't hesitate to reach out!
 
-- 🌱 Currently I’m exploring **Next.js**
-- 💬 Ask me about **MERN Stack**
+- 🌱 Currently I’m exploring **AI**
+- 💬 Ask me about **Software Engineering**
 
 <br>
 <div>
